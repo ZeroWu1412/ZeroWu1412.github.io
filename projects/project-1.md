@@ -23,6 +23,8 @@ Organ transplantation have since it started been on high demand, but due to lack
 
 For this project, I was the leader who was responsible of managing and design the experiements. After the experiment is performed, our group will analysis the result and desgin the new experiement to further improve of Microrobotic. Our Goal is to create a simple Microrobot that can help structuring cells into other shape. This will allow cells to form into artifical organ that can be use in organ transplantation operations. 
 
+</div>
+
 
 
 
