@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/0.04 Iron Oxide, 5 sec light gray 1.PNG
 title: Microrobotic
-permalink: projects/Microrobotic
+permalink: projects/microrobotic
 # All dates must be YYYY-MM-DD format!
 date: 2018-5-18
 labels:
