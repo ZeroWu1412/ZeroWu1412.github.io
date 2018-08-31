@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/1.jpg
+image: images/0.04 Iron Oxide, 5 sec gray(4).PNG
 title: Microrobotic
 permalink: projects/microrobotic
 # All dates must be YYYY-MM-DD format!
