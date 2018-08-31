@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2018-08-30 at 9.28.58 PM.png
+image: images/circuit.png
 title: Simple Circuit
 permalink: projects/simple circuit
 # All dates must be YYYY-MM-DD format!
