@@ -30,4 +30,4 @@ If Timmy successfully makes it to the other side of the minefield, he earns a bo
 The game ends when Timmy either reaches the other side of the field :-), or gets blown up by stepping on a mine :-(.
 
 For this project, we worked in group of 3 and I was working mainly on the planting flag part while my teammate worked on the other area. Once we complete all the parts, we merge the codes together and debug. 
-
+</div>
