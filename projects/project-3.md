@@ -1,61 +1,33 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/M.game .png
+title: Miensfeld
+permalink: projects/Miensfeld
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2015-01-12
 labels:
-  - Lisp
+  - C
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A simple Miensfeld game develop during EE160.
 ---
+To move about in the minefield, you use the keyboard. You can move Timmy in any of the 8 directions from his current position by using the 8 keys surrounding the 'j' key:
+<img class="ui image" src="{{ site.baseurl }}/images/move_around.png">
+As Timmy moves through the field, he indicates safe cells (cells known to not contain a mine) on his map.
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Detecting Mines
+To help Timmy find his way through the mines, he is equipped with a "proximity probe" which tells him how many mines there are in the 8 cells surrounding him (today's modern Army has all the coolest gadgets). Unfortunately, the probe cannot tell him where those mines are, just how many.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Planting Flags
+However, Timmy is also equipped with a limited number of hi-tech indicating flags to use to indicate cells to avoid by others behind him. He may plant a flag (using the keyboard) in any of the 8 surrounding cells when he suspects there is mine there. The keys to plant a flag are the shifted versions of the movement keys: 
+<img class="ui image" src="{{ site.baseurl }}/images/planting_flags.png">
+When planted, the flag will indicate whether there is a mine there or not.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Earning Points
+Timmy earns 1 point for each new safe cell he finds by moving into it. In addition, he earns 2 points for each flag he plants correctly in a cell that contains a mine. However, he loses 1 point for each flag he plants in a cell that does not contain a mine.
+If Timmy successfully makes it to the other side of the minefield, he earns a bonus of 10 points.
 
-<hr>
+The game ends when Timmy either reaches the other side of the field :-), or gets blown up by stepping on a mine :-(.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+For this project, we worked in group of 3 and I was working mainly on the planting flag part while my teammate worked on the other area. Once we complete all the parts, we merge the codes together and debug. 
 
