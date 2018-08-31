@@ -11,7 +11,7 @@ labels:
   - Matlab
   - Biomedical engineering
 summary: My team developed Microrobotic that can make cells.
-
+---
   <img class="ui medium right floated rounded image" src="../images/0.04 Iron Oxide, 5 sec gray(4).PNG">
   <img class="ui medium right floated rounded image" src="../images/0.04 Iron Oxide, 5 sec gray.PNG">
 
