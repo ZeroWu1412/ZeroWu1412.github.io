@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Screen Shot 2018-08-30 at 9.28.58 PM.png
-title: Vacay
-permalink: projects/
+title: Simple Circuit
+permalink: projects/simple circuit
 # All dates must be YYYY-MM-DD format!
 date: 2017-4-12
 labels:
