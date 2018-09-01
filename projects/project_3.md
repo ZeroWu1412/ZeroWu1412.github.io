@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mm.jpg
 title: Miensfeld
-permalink: projects/Miensfeld
+permalink: projects/miensfeld
 date: 2015-01-12
 labels:
   - C
@@ -11,12 +11,12 @@ labels:
 summary: A simple miensfeld game that developed during EE160.
 ---
 
-You use the keyboard to in any of the 8 directions from his current position by using the 8 keys surrounding the 'j' key:
+You use the keyboard to in any of the 8 directions from his current position by using the 8 keys surrounding the 'j' key.
 
   <img class="ui image" src="../images/move_around.png">
 
 As you move through the field, there will be indication of safe cells (cells known to not contain a mine) on the map.
-To help make this game simpler, the map is equipped with a "proximity probe" which tells the player how many mines there are in the 8 cells surrounding him (today's modern Army has all the coolest gadgets). Unfortunately, but the probe cannot where those mines are, just how many. Furthermore players are equipped with a limited number of hi-tech indicating flags to use to indicate cells to avoid by others behind him. He may plant a flag (using the keyboard) in any of the 8 surrounding cells when he suspects there is mine there. The keys to plant a flag are the shifted versions of the movement keys: 
+To help make this game simpler, the map is equipped with a "proximity probe" which tells the player how many mines there are in the 8 cells surrounding him (today's modern Army has all the coolest gadgets). Unfortunately, but the probe cannot where those mines are, just how many. Furthermore players are equipped with a limited number of hi-tech indicating flags to use to indicate cells to avoid by others behind him. He may plant a flag (using the keyboard) in any of the 8 surrounding cells when he suspects there is mine there. The keys to plant a flag are the shifted versions of the movement keys.
 
   <img class="ui image" src="../images/planting_flags.png">
 
