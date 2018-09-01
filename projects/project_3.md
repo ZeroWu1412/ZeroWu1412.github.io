@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/M.jpg
 title: Miensfeld
-permalink: projects/Miensfeld
+permalink: projects/miensfeld
 # All dates must be YYYY-MM-DD format!
 date: 2015-01-12
 labels:
