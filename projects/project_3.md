@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mm.jpg
 title: Miensfeld
-permalink: projects/miensfeld
+permalink: projects/project_3.md
 date: 2015-01-12
 labels:
   - C
