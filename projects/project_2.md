@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/M.jpg
+image: images/map.jpg
 title: Simple Circuit
 permalink: projects/simple circuit
 # All dates must be YYYY-MM-DD format!
