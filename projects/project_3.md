@@ -11,6 +11,7 @@ labels:
   - GitHub
 summary: A simple miensfeld game develop during EE160.
 ---
+
 Minefield Map
 You use the keyboard to in any of the 8 directions from his current position by using the 8 keys surrounding the 'j' key:
 
