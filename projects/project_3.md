@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/map.jpg
+image: images/miensfeld.png
 title: Miensfeld
 permalink: projects/miensfeld
 # All dates must be YYYY-MM-DD format!
