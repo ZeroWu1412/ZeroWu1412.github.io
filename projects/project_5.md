@@ -1,22 +1,17 @@
-* [About UHM Flea Market](#about-uhm-flea-market) 
-* [User Guided](#user-guided) 
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history) 
-  * [Milestone 1](#milestone-1)
-  * [Milestone 2](#milestone-2)
-  * [Milestone 3](#milestone-3)
-* [Community Feedback](#community-feedback) 
-* [The Team](#the-team)
-  * [Austin Haigh](#austin-haigh)
-  * [Jiayu Xu](#jiayu-xu)
-  * [Zero Wu](#zero-wu)
-  * [William Cole](#william-cole)
-  * [Davon Moss](#davon-moss)
-* [Big Picture Vision](#big-picture-vision)
-
-# Overview
-
-Many college campuses have a very active second hand market, and UH Manoa is no exception. College students try to stretch their limited income by buying used goods and by selling things they no longer need. Previously, students used websites and apps such as Facebook Marketplace, Craigslist, and Letgo, but they are open to the general public which can lead to problems such as scams, robberies, and general inconvienence. Now, with our app they will have a place to trade with other UH Manoa students. Students can feel safe knowing they aren't dealing with an anonymous (and potentially criminal) stranger, and they can meet eachother between classes instead of trying to meet someone half way across town.
+---
+layout: project
+type: project
+image: images/miensfeld.png
+title: UHM Flea Market
+permalink: projects/UHM Flea Market
+# All dates must be YYYY-MM-DD format!
+date: 2018-12-8
+labels:
+  - C
+  - Github
+  - Software
+summary: Many college campuses have a very active second hand market, and UH Manoa is no exception. College students try to stretch their limited income by buying used goods and by selling things they no longer need. Previously, students used websites and apps such as Facebook Marketplace, Craigslist, and Letgo, but they are open to the general public which can lead to problems such as scams, robberies, and general inconvienence. Now, with our app they will have a place to trade with other UH Manoa students. Students can feel safe knowing they aren't dealing with an anonymous (and potentially criminal) stranger, and they can meet eachother between classes instead of trying to meet someone half way across town.
+---
 
 # About UHM Flea Market
 
