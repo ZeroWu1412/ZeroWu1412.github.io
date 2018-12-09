@@ -77,6 +77,31 @@
       ]
     }
   ],
+  "volunteer":[
+    {
+    "organization": "VIP Microrobotics: Hydrogel",
+    "position": "Hardware Developer",  
+    "startDate": "2016-8-26",
+    "endDate": "Present", 
+    "summary": "Lead developer for VIP Microrobotics: Hydrogel project",
+    "highlights": [
+        "Development of hydrogels for organ transplantation",
+        "Design electromagnet for testing",
+        "Professionally communicate and escalate network or system problems to various stakeholders"
+      ],
+      {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Member, IEEE Student Branch, 2014-Present",
+      ]
+    }
+  }
+  ],
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -95,8 +120,18 @@
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+        "Answer phone and email responses to the ITS Help Desk",
+        "Professionally communicate and escalate network or system problems to various stakeholders"
+      ],
+      "company": "Waiola Shaved Ice",
+      "position": "Cashier",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Managed wide variety of customer service and administrative to resolve customer issues quickly and efficiently",
+        "Maintained cleanliness and presentation of stock room and production floor",
+        "Monitored cash drawers in multiple checkout stations to ensure adequate cash supply"
     }
   ]
 }
