@@ -27,4 +27,4 @@ images
 I gain a lot of experience creating application and team work from this project. I was in charge of the landing page, and userhome page. 
 
 <img class="ui image" width="200px" height="120px" src="../images/landing-page.png"/> 
-<img class="ui image" width="200px" height="120px" src="../images/user-home-page-3.png"/>
+<img class="ui image" width="200px" height="120px" src="../images/user-home-3.png"/>
